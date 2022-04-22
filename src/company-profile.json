@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "index": {
+      "section": [
+        {
+          "key": "main_banner",
+          "components": {
+            "title": "This is main banner title",
+            "description": "This is main banner description",
+            "image": "/images/img-1.jpg"
+          }
+        },
+        {
+          "key": "why_us",
+          "components": {
+            "title": "This is why us title",
+            "description": "This is why us description",
+            "image": "/images/img-2.jpg"
+          }
+        },
+        {
+          "key": "services",
+          "components": {
+            "title": "This is services title",
+            "description": "This is services description",
+            "image": "/images/img-3.jpg",
+            "services": [
+              {
+                "key": "service_1",
+                "icon": "any_icon1.png",
+                "name": "Service 1",
+                "description": "Service 1 description"
+              },
+              {
+                "key": "service_2",
+                "icon": "any_icon2.png",
+                "name": "Service 2",
+                "description": "Service 2 description"
+              },
+              {
+                "key": "service_3",
+                "icon": "any_icon3.png",
+                "name": "Service 3",
+                "description": "Service 3 description"
+              }
+            ]
+          }
+        },
+        {
+          "key": "subscription",
+          "components": {
+            "title": "This is subscription title",
+            "description": "This is subscription description"
+          }
+        }
+      ]
+    }
+  }
+}
